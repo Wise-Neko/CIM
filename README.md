@@ -1,1 +1,1 @@
-Please replace the .env files within the server.
+Please replace the .env files within the server folder.
